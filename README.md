@@ -54,7 +54,7 @@ In this single split, adding the interaction reduced test RMSE versus the additi
 
 ## Local reproduction
 
-The original analysis script is maintained in your local project folder as `insurance_analysis.py`. Add it to the repository after reviewing it for any personal paths or private information. A typical local structure is:
+The original analysis script is maintained in your local project folder as `insurance_analysis.py`. A typical local structure is:
 
 ```text
 Actuarial Analysis/
